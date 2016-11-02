@@ -1,0 +1,2 @@
+# pig-first-steps-master
+INSTALACIÓN DE PIG SOBRE CLUSTER MULTINODO
